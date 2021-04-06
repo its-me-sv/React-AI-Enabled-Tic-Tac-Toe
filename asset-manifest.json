@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-AI-Enabled-Tic-Tac-Toe/static/css/main.5b3eb9d5.chunk.css",
+    "main.js": "/React-AI-Enabled-Tic-Tac-Toe/static/js/main.0be2301f.chunk.js",
+    "main.js.map": "/React-AI-Enabled-Tic-Tac-Toe/static/js/main.0be2301f.chunk.js.map",
+    "runtime-main.js": "/React-AI-Enabled-Tic-Tac-Toe/static/js/runtime-main.fb37b9f1.js",
+    "runtime-main.js.map": "/React-AI-Enabled-Tic-Tac-Toe/static/js/runtime-main.fb37b9f1.js.map",
+    "static/js/2.37718d28.chunk.js": "/React-AI-Enabled-Tic-Tac-Toe/static/js/2.37718d28.chunk.js",
+    "static/js/2.37718d28.chunk.js.map": "/React-AI-Enabled-Tic-Tac-Toe/static/js/2.37718d28.chunk.js.map",
+    "static/js/3.7a70c002.chunk.js": "/React-AI-Enabled-Tic-Tac-Toe/static/js/3.7a70c002.chunk.js",
+    "static/js/3.7a70c002.chunk.js.map": "/React-AI-Enabled-Tic-Tac-Toe/static/js/3.7a70c002.chunk.js.map",
+    "index.html": "/React-AI-Enabled-Tic-Tac-Toe/index.html",
+    "static/css/main.5b3eb9d5.chunk.css.map": "/React-AI-Enabled-Tic-Tac-Toe/static/css/main.5b3eb9d5.chunk.css.map",
+    "static/js/2.37718d28.chunk.js.LICENSE.txt": "/React-AI-Enabled-Tic-Tac-Toe/static/js/2.37718d28.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-AI-Enabled-Tic-Tac-Toe/static/media/Burbank Big Condensed Black 700.ea4ec9a0.ttf",
+    "static/media/bulb_off.5c404162.png": "/React-AI-Enabled-Tic-Tac-Toe/static/media/bulb_off.5c404162.png",
+    "static/media/bulb_on.4f4f6af1.png": "/React-AI-Enabled-Tic-Tac-Toe/static/media/bulb_on.4f4f6af1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb37b9f1.js",
+    "static/js/2.37718d28.chunk.js",
+    "static/css/main.5b3eb9d5.chunk.css",
+    "static/js/main.0be2301f.chunk.js"
+  ]
+}
