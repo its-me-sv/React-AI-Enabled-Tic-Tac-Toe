@@ -67,7 +67,10 @@ function App() {
     setState({...state, ...{bulb, bulbSrc}});
   }
 
-  let nineSquares = state.positions.map((val, i) => <Square position={i} value={state.positions[i]} takeTurn={takeTurn} />);
+  let nineSquares = state.positions.map((val, i) => 
+    <div key={i}>
+      <Square position={i} value={state.positions[i]} takeTurn={takeTurn} />
+    </div>);
 
   return (
     <div>
